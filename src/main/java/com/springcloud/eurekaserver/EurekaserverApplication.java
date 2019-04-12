@@ -6,7 +6,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 //import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 /*
-*访问地址123 ：http://localhost:8761/
+*访问地址1234 ：http://localhost:8761/
  */
 @EnableEurekaServer //Eureka服务启动类，接受其他微服务注册进来。
 @SpringBootApplication
